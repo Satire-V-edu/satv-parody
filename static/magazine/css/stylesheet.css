@@ -390,7 +390,6 @@ article.poetry p {
 	font-family: futura;
 	padding: 10px;
 	font-size: 18px;
-	padding-left: 50px;
 }
 
 .central-message{
@@ -421,7 +420,7 @@ article.poetry p {
   font-family: Times;
   font-style: italic;
   margin-bottom: 0px;
-  padding: 0px;
+  padding: 0px;;
 }
 
 .section-article .author{
