@@ -131,7 +131,7 @@ body{
 }
 @media screen and (max-width: 946px) {
 	.affix .nav-header::before {
-	   content: "THE HARVARD ADVOCATE";
+	   content: "The Devil's Advocate";
 	   float: left;
 	   display: none;
 	   padding: 15px;
@@ -303,7 +303,7 @@ body{
 }
 @media screen and (min-width: 947px) {
 	.affix .nav-header::before {
-	   content: "THE HARVARD ADVOCATE";
+	   content: "The Devil's Advocate";
 	   float: left;
 	   display: inline-block;
 	   padding: 15px;
